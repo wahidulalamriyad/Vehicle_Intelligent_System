@@ -1,4 +1,4 @@
-# Vehicle Intelligent Systems
+# Vehicle Intelligent System
 
 Object detection is computer knowledge connected with computer vision as well as image handling that recognizes and describes items, for example, people, constructions and vehicles from advanced pictures and recordings video. This innovation has the ability to organize only one or else a few items inside a computerized picture without a moment delay. The object detection works well to recognize the objects like car, truck, bus, motorbike, traffic light and person. 
 
