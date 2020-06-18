@@ -1,0 +1,53 @@
+﻿  IPPR.cpp
+C:\Users\scpy2\Documents\IPPR\IPPR\IPPR.cpp(23,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\scpy2\Documents\IPPR\IPPR\IPPR.cpp(71,43): warning C4244: '+=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\scpy2\Documents\IPPR\IPPR\IPPR.cpp(84,61): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\scpy2\Documents\IPPR\IPPR\IPPR.cpp(85,61): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\scpy2\Documents\IPPR\IPPR\IPPR.cpp(86,61): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\scpy2\Documents\IPPR\IPPR\IPPR.cpp(136,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\scpy2\Documents\IPPR\IPPR\IPPR.cpp(137,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\scpy2\Documents\IPPR\IPPR\IPPR.cpp(138,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\scpy2\Documents\IPPR\IPPR\IPPR.cpp(261,38): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\scpy2\Documents\IPPR\IPPR\IPPR.cpp(261,83): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Generating code
+  8 of 569 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  IPPR.vcxproj -> C:\Users\scpy2\Documents\IPPR\x64\Release\IPPR.exe
